@@ -1,2 +1,3 @@
 # PortfolioProject
+Welcome to my Interactive Web Portfolio project, where I showcase my skills and creativity through the power of JavaScript (JS) and Cascading Style Sheets (CSS). This project serves as a dynamic representation of my abilities in web development, demonstrating my proficiency in creating engaging and responsive web experiences
 Feel free to explore my Interactive Web Portfolio and get in touch if you have any questions or opportunities for collaboration. Your feedback is always appreciated as I strive to improve and evolve in the world of web development. Thank you for visiting!
